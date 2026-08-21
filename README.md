@@ -14,6 +14,7 @@ Security researcher and founder. I build systems where the security claim is som
 - CompTIA A+ · Security+ · Cisco CCNA
 - Recognized by SDAIA and the Saudi Ministry of Industry, Saudi Research and Development Initiative, and a couple more organizations. 
 - 5th internationally, WAICY
+- (Not everything, but still something)
 
 
 ### How to reach me
