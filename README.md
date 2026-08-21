@@ -12,7 +12,7 @@ Security researcher and founder. I build systems where the security claim is som
 
 - **CVE-2026-10706** and **CVE-2026-10708** (CVSS 9.9) — broken access control, coordinated through CERT/CC (VU#849433)
 - CompTIA A+ · Security+ · Cisco CCNA
-- Recognized by SDAIA and the Saudi Ministry of Industry
+- Recognized by SDAIA and the Saudi Ministry of Industry, Saudi Research and Development Initiative, and a couple more organizations. 
 - 5th internationally, WAICY
 
 
